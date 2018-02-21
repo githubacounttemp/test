@@ -1,0 +1,13 @@
+git 
+
+status
+add : add files (staging areas)
+commit : persist the changes 
+push : 
+pull : changes
+clone : cloning complete the 
+branch
+checkout
+merge
+remote : git/bitbucket repo
+config 
